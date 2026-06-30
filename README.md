@@ -51,6 +51,12 @@ Trust Seal → CognitiveVault
 
 ---
 
+## Read the Full Article
+
+📖 **Medium** — [Empire of AI: How LumenLUX Builds the Ethical Alternative That Hao Demands](https://medium.com/p/21776daebc00)
+
+---
+
 ## Documentation
 
 | File | What it covers |
@@ -79,6 +85,8 @@ LumenOS is a living system. The source code lives in a separate repository:
 LumenOS is not a product. It is a proof that the alternative is buildable.
 
 ---
+
+📖 Read on **[Medium](https://medium.com/p/21776daebc00)**
 
 **Created by [Irving Díaz Medorio](https://github.com/irvingmedorio)** — June 2026  
 Part of the LumenOS ecosystem.
