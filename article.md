@@ -137,6 +137,8 @@ python -c "from lumenpower.sovereign.cognitive_vault import CognitiveVault; prin
 
 ## The Technical Foundation
 
+The system is built on a standard Python 3.10+ stack with no exotic dependencies:
+
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
 | HTTP Bridge | aiohttp | REST API + WebSocket |
@@ -153,9 +155,13 @@ The ethical models are small enough to fit in a `models/` directory (~250 MB tot
 
 ## The Road Ahead
 
+The implementation you just read about exists today. It runs on my laptop. The next phase focuses on:
+
 - **NESI** — A sovereign browser that routes traffic through the ethical pipeline
 - **CCM** — A central command dashboard for multi-agent orchestration
 - **Peer attestation** — Cross-system verification of Trust Seals between independent LumenLUX instances
+
+The full philosophical and architectural documentation is available at **[github.com/irvingmedorio/LumenOS](https://github.com/irvingmedorio/LumenOS)**. The source code lives at **[github.com/irvingmedorio/LumenPowerMain](https://github.com/irvingmedorio/LumenPowerMain)**.
 
 ---
 
@@ -179,4 +185,17 @@ And if someone like me — without a degree, without funding, without a team —
 
 ---
 
-*LumenLUX is part of the LumenOS ecosystem.*
+## If This Resonated
+
+I'm building LumenOS full-time, alone, without funding. If this article made you think, question, or want to see more:
+
+- **Follow me** on Medium for updates as I build the sovereign alternative
+- **Clap and share** this article — it helps the algorithm show it to people who need to know this exists
+- **Star the repo** at [github.com/irvingmedorio/LumenOS](https://github.com/irvingmedorio/LumenOS)
+- **Comment below** — I read every response. What would *you* build if you had sovereign AI?
+
+The floor is yours.
+
+---
+
+*All code is open source. No data collection. No tracking. This article has zero affiliate links — I don't sell anything. I just build things that matter.*
